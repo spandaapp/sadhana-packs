@@ -102,7 +102,7 @@
     {
       "label": "Morning Sadhana",
       "type": "REGULAR",
-      "regularHour": 16,
+      "regularHour": 4,
       "regularMinute": 0,
       "intervalStartMinutesOfDay": 540,
       "intervalEndMinutesOfDay": 1020,
