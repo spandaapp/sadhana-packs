@@ -1,0 +1,34 @@
+{
+  "id": "e2e-1786418861",
+  "displayName": "E2E Test Pack",
+  "description": "Automated end-to-end verification. Safe to close.",
+  "moodNames": [
+    "Calm"
+  ],
+  "practices": [],
+  "smartTimers": [],
+  "schedules": [],
+  "widgets": [],
+  "audioAlbum": {
+    "albumId": "e2e-audio",
+    "albumName": "E2E Audio",
+    "assets": [
+      {
+        "assetPath": "packs\/e2e-1786418861\/audio\/tone.mp3",
+        "fileName": "tone.mp3"
+      }
+    ]
+  },
+  "imageAlbum": {
+    "albumId": "e2e-photos",
+    "albumName": "E2E Photos",
+    "assets": [
+      {
+        "assetPath": "packs\/e2e-1786418861\/photos\/shot.jpg",
+        "fileName": "shot.jpg"
+      }
+    ]
+  },
+  "icsAssets": [],
+  "widgetAssets": []
+}
