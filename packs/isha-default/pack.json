@@ -189,7 +189,7 @@
       "intervalChimeDurationMillis": 1000,
       "audioAssetPath": "audio\/albums\/nature\/nature_1.mp3",
       "useRandomAlbum": true,
-      "audioAlbumId": "00000000-0000-4000-a000-000000000001",
+      "audioAlbumId": "00000000-0000-4000-a000-000000000003",
       "useRandomBackgroundAlbum": true,
       "backgroundAlbumId": "00000000-0000-4000-a000-000000000002",
       "volume": 0.5028383731842041,
@@ -210,9 +210,151 @@
   ],
   "widgets": [],
   "widgetAssets": [],
+  "audioAlbums": [
+    {
+      "albumId": "00000000-0000-4000-a000-000000000001",
+      "albumName": "Isha - Sadhguru Talks",
+      "assets": [
+        {
+          "assetPath": "packs\/isha-default\/audio\/break_the_patterns.mp3",
+          "fileName": "break_the_patterns.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/consistency.mp3",
+          "fileName": "consistency.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/devotion.mp3",
+          "fileName": "devotion.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/dont_giveup_your_striving.mp3",
+          "fileName": "dont_giveup_your_striving.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/eager_to_wakeup.mp3",
+          "fileName": "eager_to_wakeup.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/Fire_of_sadhana.mp3",
+          "fileName": "Fire_of_sadhana.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/first_one_to_catch_sun.mp3",
+          "fileName": "first_one_to_catch_sun.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/I_want_to_suceed_as_a_guru.mp3",
+          "fileName": "I_want_to_suceed_as_a_guru.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/It_can_happen_any_moment.mp3",
+          "fileName": "It_can_happen_any_moment.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/Its_a_possibility_in_this_life.mp3",
+          "fileName": "Its_a_possibility_in_this_life.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/Life_hasnt_knocked_you_sufficiently.mp3",
+          "fileName": "Life_hasnt_knocked_you_sufficiently.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/life_is_tough_for_body.mp3",
+          "fileName": "life_is_tough_for_body.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/mortality.mp3",
+          "fileName": "mortality.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/new_nonsense_atleast.mp3",
+          "fileName": "new_nonsense_atleast.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/no_loosing.mp3",
+          "fileName": "no_loosing.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/no_solace.mp3",
+          "fileName": "no_solace.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/No_way_you_can_remaim_untransformed.mp3",
+          "fileName": "No_way_you_can_remaim_untransformed.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/offering.mp3",
+          "fileName": "offering.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/powerful_processes.mp3",
+          "fileName": "powerful_processes.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/rare_possibility.mp3",
+          "fileName": "rare_possibility.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/Rub_your_hands.mp3",
+          "fileName": "Rub_your_hands.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/sadhana.mp3",
+          "fileName": "sadhana.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/Seeking_should_go_away_but_not_sadhana.mp3",
+          "fileName": "Seeking_should_go_away_but_not_sadhana.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/smile.mp3",
+          "fileName": "smile.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/transform.mp3",
+          "fileName": "transform.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/urgency.mp3",
+          "fileName": "urgency.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/you_can_die_today.mp3",
+          "fileName": "you_can_die_today.mp3"
+        }
+      ]
+    },
+    {
+      "albumId": "00000000-0000-4000-a000-000000000003",
+      "albumName": "Isha -Tunes",
+      "assets": [
+        {
+          "assetPath": "packs\/isha-default\/audio\/tunes\/bhairavi-jaya-bhairavi.mp3",
+          "fileName": "bhairavi-jaya-bhairavi.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/tunes\/inner-engineering-music.mp3",
+          "fileName": "inner-engineering-music.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/tunes\/madhyamavathi.mp3",
+          "fileName": "madhyamavathi.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/tunes\/masterpiece.mp3",
+          "fileName": "masterpiece.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/tunes\/yoga-padhi.mp3",
+          "fileName": "yoga-padhi.mp3"
+        }
+      ]
+    }
+  ],
   "audioAlbum": {
     "albumId": "00000000-0000-4000-a000-000000000001",
-    "albumName": "Isha",
+    "albumName": "Isha - Sadhguru Talks",
     "assets": [
       {
         "assetPath": "packs\/isha-default\/audio\/break_the_patterns.mp3",
