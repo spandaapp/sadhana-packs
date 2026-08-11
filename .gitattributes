@@ -1,0 +1,10 @@
+# Store every file byte-for-byte: no CRLF/LF translation, ever.
+#
+# Pack content is written by the app through the GitHub REST API, which commits raw bytes and
+# never normalises anything. A local `git add` on Windows does normalise by default, so the two
+# write paths disagreed: re-committing packs/isha-default/ics/*.ics from a Windows checkout
+# rewrote its CRLF line endings to LF and silently dropped 8204 bytes. RFC 5545 requires CRLF
+# in iCalendar, so that is corruption, not a cosmetic diff.
+#
+# `-text` on everything keeps a local commit byte-identical to what the API would have written.
+* -text
