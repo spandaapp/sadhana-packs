@@ -212,257 +212,313 @@
   "widgetAssets": [],
   "audioAlbums": [
     {
-      "albumId": "00000000-0000-4000-a000-000000000001",
-      "albumName": "Isha - Sadhguru Talks",
-      "assets": [
-        {
-          "assetPath": "packs\/isha-default\/audio\/break_the_patterns.mp3",
-          "fileName": "break_the_patterns.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/consistency.mp3",
-          "fileName": "consistency.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/devotion.mp3",
-          "fileName": "devotion.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/dont_giveup_your_striving.mp3",
-          "fileName": "dont_giveup_your_striving.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/eager_to_wakeup.mp3",
-          "fileName": "eager_to_wakeup.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/Fire_of_sadhana.mp3",
-          "fileName": "Fire_of_sadhana.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/first_one_to_catch_sun.mp3",
-          "fileName": "first_one_to_catch_sun.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/I_want_to_suceed_as_a_guru.mp3",
-          "fileName": "I_want_to_suceed_as_a_guru.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/It_can_happen_any_moment.mp3",
-          "fileName": "It_can_happen_any_moment.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/Its_a_possibility_in_this_life.mp3",
-          "fileName": "Its_a_possibility_in_this_life.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/Life_hasnt_knocked_you_sufficiently.mp3",
-          "fileName": "Life_hasnt_knocked_you_sufficiently.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/life_is_tough_for_body.mp3",
-          "fileName": "life_is_tough_for_body.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/mortality.mp3",
-          "fileName": "mortality.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/new_nonsense_atleast.mp3",
-          "fileName": "new_nonsense_atleast.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/no_loosing.mp3",
-          "fileName": "no_loosing.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/no_solace.mp3",
-          "fileName": "no_solace.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/No_way_you_can_remaim_untransformed.mp3",
-          "fileName": "No_way_you_can_remaim_untransformed.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/offering.mp3",
-          "fileName": "offering.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/powerful_processes.mp3",
-          "fileName": "powerful_processes.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/rare_possibility.mp3",
-          "fileName": "rare_possibility.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/Rub_your_hands.mp3",
-          "fileName": "Rub_your_hands.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/sadhana.mp3",
-          "fileName": "sadhana.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/Seeking_should_go_away_but_not_sadhana.mp3",
-          "fileName": "Seeking_should_go_away_but_not_sadhana.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/smile.mp3",
-          "fileName": "smile.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/transform.mp3",
-          "fileName": "transform.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/urgency.mp3",
-          "fileName": "urgency.mp3"
-        },
-        {
-          "assetPath": "packs\/isha-default\/audio\/you_can_die_today.mp3",
-          "fileName": "you_can_die_today.mp3"
-        }
-      ]
-    },
-    {
       "albumId": "00000000-0000-4000-a000-000000000003",
       "albumName": "Isha -Tunes",
       "assets": [
         {
-          "assetPath": "packs\/isha-default\/audio\/tunes\/bhairavi-jaya-bhairavi.mp3",
+          "assetPath": "packs\/isha-default\/audio\/isha-tunes\/bhairavi-jaya-bhairavi.mp3",
           "fileName": "bhairavi-jaya-bhairavi.mp3"
         },
         {
-          "assetPath": "packs\/isha-default\/audio\/tunes\/inner-engineering-music.mp3",
+          "assetPath": "packs\/isha-default\/audio\/isha-tunes\/inner-engineering-music.mp3",
           "fileName": "inner-engineering-music.mp3"
         },
         {
-          "assetPath": "packs\/isha-default\/audio\/tunes\/madhyamavathi.mp3",
+          "assetPath": "packs\/isha-default\/audio\/isha-tunes\/madhyamavathi.mp3",
           "fileName": "madhyamavathi.mp3"
         },
         {
-          "assetPath": "packs\/isha-default\/audio\/tunes\/masterpiece.mp3",
+          "assetPath": "packs\/isha-default\/audio\/isha-tunes\/masterpiece.mp3",
           "fileName": "masterpiece.mp3"
         },
         {
-          "assetPath": "packs\/isha-default\/audio\/tunes\/yoga-padhi.mp3",
+          "assetPath": "packs\/isha-default\/audio\/isha-tunes\/yoga-padhi.mp3",
           "fileName": "yoga-padhi.mp3"
+        }
+      ]
+    },
+    {
+      "albumId": "00000000-0000-4000-a000-000000000001",
+      "albumName": "Isha - Sadhguru Talks",
+      "assets": [
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/break_the_patterns.mp3",
+          "fileName": "break_the_patterns.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/consistency.mp3",
+          "fileName": "consistency.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/devotion.mp3",
+          "fileName": "devotion.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/dont_giveup_your_striving.mp3",
+          "fileName": "dont_giveup_your_striving.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/eager_to_wakeup.mp3",
+          "fileName": "eager_to_wakeup.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/Fire_of_sadhana.mp3",
+          "fileName": "Fire_of_sadhana.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/first_one_to_catch_sun.mp3",
+          "fileName": "first_one_to_catch_sun.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/I_want_to_suceed_as_a_guru.mp3",
+          "fileName": "I_want_to_suceed_as_a_guru.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/It_can_happen_any_moment.mp3",
+          "fileName": "It_can_happen_any_moment.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/Its_a_possibility_in_this_life.mp3",
+          "fileName": "Its_a_possibility_in_this_life.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/Life_hasnt_knocked_you_sufficiently.mp3",
+          "fileName": "Life_hasnt_knocked_you_sufficiently.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/life_is_tough_for_body.mp3",
+          "fileName": "life_is_tough_for_body.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/mortality.mp3",
+          "fileName": "mortality.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/new_nonsense_atleast.mp3",
+          "fileName": "new_nonsense_atleast.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/no_loosing.mp3",
+          "fileName": "no_loosing.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/no_solace.mp3",
+          "fileName": "no_solace.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/No_way_you_can_remaim_untransformed.mp3",
+          "fileName": "No_way_you_can_remaim_untransformed.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/offering.mp3",
+          "fileName": "offering.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/powerful_processes.mp3",
+          "fileName": "powerful_processes.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/rare_possibility.mp3",
+          "fileName": "rare_possibility.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/Rub_your_hands.mp3",
+          "fileName": "Rub_your_hands.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/sadhana.mp3",
+          "fileName": "sadhana.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/Seeking_should_go_away_but_not_sadhana.mp3",
+          "fileName": "Seeking_should_go_away_but_not_sadhana.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/smile.mp3",
+          "fileName": "smile.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/transform.mp3",
+          "fileName": "transform.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/urgency.mp3",
+          "fileName": "urgency.mp3"
+        },
+        {
+          "assetPath": "packs\/isha-default\/audio\/isha-sadhguru-talks\/you_can_die_today.mp3",
+          "fileName": "you_can_die_today.mp3"
+        }
+      ]
+    }
+  ],
+  "imageAlbums": [
+    {
+      "albumId": "00000000-0000-4000-a000-000000000002",
+      "albumName": "Isha",
+      "assets": [
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_1.jpg",
+          "fileName": "Isha_1.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_10.jpg",
+          "fileName": "Isha_10.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_11.jpg",
+          "fileName": "Isha_11.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_12.jpg",
+          "fileName": "Isha_12.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_13.jpg",
+          "fileName": "Isha_13.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_14.jpg",
+          "fileName": "Isha_14.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_15.jpg",
+          "fileName": "Isha_15.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_16.jpg",
+          "fileName": "Isha_16.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_17.jpg",
+          "fileName": "Isha_17.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_18.jpg",
+          "fileName": "Isha_18.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_19.jpg",
+          "fileName": "Isha_19.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_2.jpg",
+          "fileName": "Isha_2.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_20.jpg",
+          "fileName": "Isha_20.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_21.jpg",
+          "fileName": "Isha_21.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_22.jpg",
+          "fileName": "Isha_22.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_23.jpg",
+          "fileName": "Isha_23.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_24.jpg",
+          "fileName": "Isha_24.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_25.jpg",
+          "fileName": "Isha_25.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_26.jpg",
+          "fileName": "Isha_26.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_27.jpg",
+          "fileName": "Isha_27.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_28.jpg",
+          "fileName": "Isha_28.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_29.jpg",
+          "fileName": "Isha_29.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_3.jpg",
+          "fileName": "Isha_3.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_30.jpg",
+          "fileName": "Isha_30.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_31.jpg",
+          "fileName": "Isha_31.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_32.jpg",
+          "fileName": "Isha_32.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_33.jpg",
+          "fileName": "Isha_33.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_34.jpg",
+          "fileName": "Isha_34.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_4.jpg",
+          "fileName": "Isha_4.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_5.jpg",
+          "fileName": "Isha_5.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_6.jpg",
+          "fileName": "Isha_6.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_7.jpg",
+          "fileName": "Isha_7.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_8.jpg",
+          "fileName": "Isha_8.jpg"
+        },
+        {
+          "assetPath": "packs\/isha-default\/photos\/isha\/Isha_9.jpg",
+          "fileName": "Isha_9.jpg"
         }
       ]
     }
   ],
   "audioAlbum": {
-    "albumId": "00000000-0000-4000-a000-000000000001",
-    "albumName": "Isha - Sadhguru Talks",
+    "albumId": "00000000-0000-4000-a000-000000000003",
+    "albumName": "Isha -Tunes",
     "assets": [
       {
-        "assetPath": "packs\/isha-default\/audio\/break_the_patterns.mp3",
-        "fileName": "break_the_patterns.mp3"
+        "assetPath": "packs\/isha-default\/audio\/isha-tunes\/bhairavi-jaya-bhairavi.mp3",
+        "fileName": "bhairavi-jaya-bhairavi.mp3"
       },
       {
-        "assetPath": "packs\/isha-default\/audio\/consistency.mp3",
-        "fileName": "consistency.mp3"
+        "assetPath": "packs\/isha-default\/audio\/isha-tunes\/inner-engineering-music.mp3",
+        "fileName": "inner-engineering-music.mp3"
       },
       {
-        "assetPath": "packs\/isha-default\/audio\/devotion.mp3",
-        "fileName": "devotion.mp3"
+        "assetPath": "packs\/isha-default\/audio\/isha-tunes\/madhyamavathi.mp3",
+        "fileName": "madhyamavathi.mp3"
       },
       {
-        "assetPath": "packs\/isha-default\/audio\/dont_giveup_your_striving.mp3",
-        "fileName": "dont_giveup_your_striving.mp3"
+        "assetPath": "packs\/isha-default\/audio\/isha-tunes\/masterpiece.mp3",
+        "fileName": "masterpiece.mp3"
       },
       {
-        "assetPath": "packs\/isha-default\/audio\/eager_to_wakeup.mp3",
-        "fileName": "eager_to_wakeup.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/Fire_of_sadhana.mp3",
-        "fileName": "Fire_of_sadhana.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/first_one_to_catch_sun.mp3",
-        "fileName": "first_one_to_catch_sun.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/I_want_to_suceed_as_a_guru.mp3",
-        "fileName": "I_want_to_suceed_as_a_guru.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/It_can_happen_any_moment.mp3",
-        "fileName": "It_can_happen_any_moment.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/Its_a_possibility_in_this_life.mp3",
-        "fileName": "Its_a_possibility_in_this_life.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/Life_hasnt_knocked_you_sufficiently.mp3",
-        "fileName": "Life_hasnt_knocked_you_sufficiently.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/life_is_tough_for_body.mp3",
-        "fileName": "life_is_tough_for_body.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/mortality.mp3",
-        "fileName": "mortality.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/new_nonsense_atleast.mp3",
-        "fileName": "new_nonsense_atleast.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/no_loosing.mp3",
-        "fileName": "no_loosing.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/no_solace.mp3",
-        "fileName": "no_solace.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/No_way_you_can_remaim_untransformed.mp3",
-        "fileName": "No_way_you_can_remaim_untransformed.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/offering.mp3",
-        "fileName": "offering.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/powerful_processes.mp3",
-        "fileName": "powerful_processes.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/rare_possibility.mp3",
-        "fileName": "rare_possibility.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/Rub_your_hands.mp3",
-        "fileName": "Rub_your_hands.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/sadhana.mp3",
-        "fileName": "sadhana.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/Seeking_should_go_away_but_not_sadhana.mp3",
-        "fileName": "Seeking_should_go_away_but_not_sadhana.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/smile.mp3",
-        "fileName": "smile.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/transform.mp3",
-        "fileName": "transform.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/urgency.mp3",
-        "fileName": "urgency.mp3"
-      },
-      {
-        "assetPath": "packs\/isha-default\/audio\/you_can_die_today.mp3",
-        "fileName": "you_can_die_today.mp3"
+        "assetPath": "packs\/isha-default\/audio\/isha-tunes\/yoga-padhi.mp3",
+        "fileName": "yoga-padhi.mp3"
       }
     ]
   },
@@ -471,139 +527,139 @@
     "albumName": "Isha",
     "assets": [
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_1.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_1.jpg",
         "fileName": "Isha_1.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_10.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_10.jpg",
         "fileName": "Isha_10.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_11.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_11.jpg",
         "fileName": "Isha_11.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_12.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_12.jpg",
         "fileName": "Isha_12.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_13.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_13.jpg",
         "fileName": "Isha_13.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_14.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_14.jpg",
         "fileName": "Isha_14.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_15.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_15.jpg",
         "fileName": "Isha_15.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_16.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_16.jpg",
         "fileName": "Isha_16.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_17.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_17.jpg",
         "fileName": "Isha_17.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_18.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_18.jpg",
         "fileName": "Isha_18.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_19.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_19.jpg",
         "fileName": "Isha_19.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_2.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_2.jpg",
         "fileName": "Isha_2.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_20.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_20.jpg",
         "fileName": "Isha_20.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_21.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_21.jpg",
         "fileName": "Isha_21.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_22.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_22.jpg",
         "fileName": "Isha_22.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_23.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_23.jpg",
         "fileName": "Isha_23.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_24.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_24.jpg",
         "fileName": "Isha_24.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_25.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_25.jpg",
         "fileName": "Isha_25.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_26.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_26.jpg",
         "fileName": "Isha_26.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_27.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_27.jpg",
         "fileName": "Isha_27.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_28.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_28.jpg",
         "fileName": "Isha_28.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_29.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_29.jpg",
         "fileName": "Isha_29.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_3.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_3.jpg",
         "fileName": "Isha_3.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_30.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_30.jpg",
         "fileName": "Isha_30.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_31.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_31.jpg",
         "fileName": "Isha_31.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_32.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_32.jpg",
         "fileName": "Isha_32.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_33.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_33.jpg",
         "fileName": "Isha_33.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_34.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_34.jpg",
         "fileName": "Isha_34.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_4.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_4.jpg",
         "fileName": "Isha_4.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_5.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_5.jpg",
         "fileName": "Isha_5.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_6.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_6.jpg",
         "fileName": "Isha_6.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_7.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_7.jpg",
         "fileName": "Isha_7.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_8.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_8.jpg",
         "fileName": "Isha_8.jpg"
       },
       {
-        "assetPath": "packs\/isha-default\/photos\/Isha_9.jpg",
+        "assetPath": "packs\/isha-default\/photos\/isha\/Isha_9.jpg",
         "fileName": "Isha_9.jpg"
       }
     ]
