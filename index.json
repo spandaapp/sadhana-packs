@@ -8,14 +8,6 @@
       "version": 5,
       "manifestPath": "packs\/isha-default\/pack.json",
       "approved": true
-    },
-    {
-      "id": "e2e-1786418861",
-      "displayName": "E2E Test Pack",
-      "description": "Automated end-to-end verification. Safe to close.",
-      "version": 1,
-      "manifestPath": "packs\/e2e-1786418861\/pack.json",
-      "approved": false
     }
   ]
 }
