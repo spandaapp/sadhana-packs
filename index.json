@@ -15,7 +15,7 @@
       "description": "Automated end-to-end verification. Safe to close.",
       "version": 1,
       "manifestPath": "packs\/e2e-1786418861\/pack.json",
-      "approved": false
+      "approved": true
     }
   ]
 }
